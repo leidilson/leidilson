@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, sou o Leidilson! 👋
 
-<!--
-**leidilson/leidilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Cabo Verde 🇨🇻
 
-Here are some ideas to get you started:
+Sou estudante de Informática, interessado em desenvolvimento de software e criação de soluções tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou a desenvolver as minhas competências através dos estudos e da prática, com foco em programação, desenvolvimento web e bases de dados.
+
+## 💻 Tecnologias
+
+**Conhecimentos atuais:**
+- Python
+- HTML
+- CSS
+- SQL
+
+**A aprofundar:**
+- JavaScript
+- Flask
+- Git & GitHub
+- PostgreSQL
+
+## 🎯 Objetivos
+
+- Melhorar a minha lógica de programação.
+- Desenvolver projetos práticos.
+- Aprender boas práticas de desenvolvimento.
+- Construir soluções que resolvam problemas reais.
+- Evoluir como Software Developer.
+
+## 📚 Formação
+
+- 12.º ano — Informática
+- Escola Técnica Grão-Duque Henri
+- Cabo Verde
+
+## 🌐 Contacto
+
+- **GitHub:** https://github.com/leidilson
+- **LinkedIn:** https://www.linkedin.com/in/leidilson/
+
+---
+
+*Learning, building and improving every day.*
