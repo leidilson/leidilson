@@ -13,6 +13,7 @@ Atualmente, estou a desenvolver as minhas competências através dos estudos e d
 - HTML
 - CSS
 - SQL
+- C
 
 **A aprofundar:**
 - JavaScript
