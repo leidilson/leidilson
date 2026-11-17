@@ -1,45 +1,59 @@
-# Olá, sou o Leidilson! 👋
+# Leidilson Mendes
 
-### Aspiring Software Developer | Cabo Verde 🇨🇻
+### Aspiring Software Developer
 
-Sou estudante de Informática, interessado em desenvolvimento de software e criação de soluções tecnológicas.
+Estudante de Informática em Cabo Verde, interessado no desenvolvimento de software e na criação de soluções tecnológicas.
 
-Atualmente, estou a desenvolver as minhas competências através dos estudos e da prática, com foco em programação, desenvolvimento web e bases de dados.
+Atualmente, estou a desenvolver as minhas competências em programação, bases de dados e desenvolvimento web, com foco na aprendizagem prática e na construção de projetos.
 
-## 💻 Tecnologias
-
-**Conhecimentos atuais:**
-- Python
-- HTML
-- CSS
-- SQL
-- C
-
-**A aprofundar:**
-- JavaScript
-- Flask
-- Git & GitHub
-- PostgreSQL
-
-## 🎯 Objetivos
-
-- Melhorar a minha lógica de programação.
-- Desenvolver projetos práticos.
-- Aprender boas práticas de desenvolvimento.
-- Construir soluções que resolvam problemas reais.
-- Evoluir como Software Developer.
-
-## 📚 Formação
-
-- 12.º ano — Informática
-- Escola Técnica Grão-Duque Henri
-- Cabo Verde
-
-## 🌐 Contacto
-
-- **GitHub:** https://github.com/leidilson
-- **LinkedIn:** https://www.linkedin.com/in/leidilson/
+**Learning. Building. Improving.**
 
 ---
 
-*Learning, building and improving every day.*
+## Sobre mim
+
+- Estudante do 12.º ano de Informática.
+- Interessado em desenvolvimento de software.
+- A aprofundar conhecimentos em programação e desenvolvimento web.
+- Valorizo código organizado, aprendizagem contínua e resolução de problemas.
+- Objetivo: conquistar uma primeira oportunidade profissional na área de desenvolvimento de software.
+
+## Tecnologias
+
+**Conhecimentos atuais**
+
+- Python
+- C
+- SQL
+- HTML
+- CSS
+- Git e GitHub
+
+**Em aprendizagem e aprofundamento**
+
+- JavaScript
+- Flask
+- PostgreSQL
+
+## Formação
+
+**12.º ano — Informática**
+
+Escola Técnica Grão-Duque Henri
+Cabo Verde · Conclusão prevista: 2027
+
+## Competências complementares
+
+- Redes informáticas
+- Manutenção de computadores e telemóveis
+- Edição de vídeo
+- Motion design
+
+## Contacto
+
+- GitHub: [https://github.com/leidilson](https://github.com/leidilson)
+- LinkedIn: [https://www.linkedin.com/in/leidilson/](https://www.linkedin.com/in/leidilson/)
+
+---
+
+*Learning. Building. Improving.*
