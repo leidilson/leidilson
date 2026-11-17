@@ -21,7 +21,6 @@ Atualmente, estou a desenvolver as minhas competências em programação, bases 
 ## Tecnologias
 
 **Conhecimentos atuais**
-
 - Python
 - C
 - SQL
@@ -30,7 +29,6 @@ Atualmente, estou a desenvolver as minhas competências em programação, bases 
 - Git e GitHub
 
 **Em aprendizagem e aprofundamento**
-
 - JavaScript
 - Flask
 - PostgreSQL
@@ -40,6 +38,7 @@ Atualmente, estou a desenvolver as minhas competências em programação, bases 
 **12.º ano — Informática**
 
 Escola Técnica Grão-Duque Henri
+
 Cabo Verde · Conclusão prevista: 2027
 
 ## Competências complementares
@@ -51,9 +50,5 @@ Cabo Verde · Conclusão prevista: 2027
 
 ## Contacto
 
-- GitHub: [https://github.com/leidilson](https://github.com/leidilson)
-- LinkedIn: [https://www.linkedin.com/in/leidilson/](https://www.linkedin.com/in/leidilson/)
-
----
-
-*Learning. Building. Improving.*
+- GitHub: [github.com/leidilson](https://github.com/leidilson)
+- LinkedIn: https://www.linkedin.com/in/leidilson/
