@@ -43,8 +43,6 @@ Cabo Verde · Conclusão prevista: 2027
 
 ## Competências complementares
 
-- Redes informáticas
-- Manutenção de computadores e telemóveis
 - Edição de vídeo
 - Motion design
 
